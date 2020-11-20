@@ -1,2 +1,2 @@
-# COLLISION-DETECTION
-DETECTING THE COLLISION BETWEEN 2 OBJECTS
+# p5.play-boilerplate
+Boiler plate for p5.play
